@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1620432079 source:c:\users\mateus matos\desktop\projetoed\gameed\funcoes.c
+	"funcoes.h"
+
+1620194036 c:\users\mateus matos\desktop\projetoed\gameed\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1620194941 source:c:\users\mateus matos\desktop\projetoed\gameed\main.c
+	"funcoes.h"
+
+1620432079 source:c:\users\mateus matos\desktop\faculdade\ed1\projeto\projetoed\gameed\funcoes.c
+	"funcoes.h"
+
+1620194036 c:\users\mateus matos\desktop\faculdade\ed1\projeto\projetoed\gameed\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1620194941 source:c:\users\mateus matos\desktop\faculdade\ed1\projeto\projetoed\gameed\main.c
+	"funcoes.h"
+
